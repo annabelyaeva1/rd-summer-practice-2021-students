@@ -1,8 +1,15 @@
 # RD summer practice 2021
 
 ## Работа
-Для отладки можно вписать `debugger` в нужное место кода
-`console.log(a)` - вывод в консоль
+
+Алексей Иванов AlekseyIvanovs
+Беляева Анна annabelyaeva1
+Наталья Козырева NataliyaKozyreva
+Артем Карпушкин Karpushkin_Artem
+Максим Зеленев Zelenev
+
+
+
 
 ## Сервера для работы
  - http://212.12.28.76:8085/ - основной
